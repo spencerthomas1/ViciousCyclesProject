@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(231, 251, 251);
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 70%;
+ }
+ header{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 4em;
+    color: #010B5B;
+ }
+h2 {
+    text-align: center;
+    display: inline-block;
+    margin-top: 0.321cm;
+    margin-right: 1cm;
+    margin-left: 1cm;
+
+}
+ul {
+    font-style: italic;
+
+}
